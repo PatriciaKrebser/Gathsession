@@ -1,0 +1,17 @@
+@use "reset";
+@use "variables";
+@use "navbar";
+@use "hero";
+@use "services";
+
+body {
+  margin: 0;
+  background-color: variables.$color-background;
+}
+
+main {
+  position: relative;
+  width: 1920px;
+  height: 960px;
+  overflow: hidden;
+}

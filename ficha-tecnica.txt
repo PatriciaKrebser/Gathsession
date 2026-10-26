@@ -1,0 +1,659 @@
+Ficha técnica de Figma
+
+1. Frame principal
+Nombre: Gathsession
+Tipo de elemento: Marco (Frame)
+Ancho: 1920 px
+Alto: 1080 px
+Posición X: -961
+Posición Y: -682
+Rotación: 0°
+Opacidad: 100%
+Radio de esquina: 0
+Recortar contenido (Clip content): Activado
+
+2. Fondo
+Color HEX: #FFFFFF
+Opacidad: 100 %
+Formato de color: HEX
+
+3. Estructura de capas
+Dentro del frame Gathsession aparecen estas capas:
+service
+title
+navbar
+content
+
+4. Guías de diseño
+Tipo de guía: 12 columnas.
+
+5. Exportación
+Escala seleccionada: 2x
+Formato: PNG
+Nombre de exportación: Gathsession
+
+
+
+Grupo: Beneficios inferiores (service)
+Dimensiones y posición
+Ancho: 616 px (adaptar al contenido).
+Alto: 64 px (adaptar al contenido).
+Posición X: 160 px.
+Posición Y: 899 px.
+Rotación: 0°.
+Diseño automático (Auto Layout)
+Dirección: horizontal.
+Espacio entre elementos: 48 px.
+Alineación: inicio, en el eje principal y centrada en el eje transversal.
+Margen interior horizontal: 0 px.
+Margen interior vertical: 0 px.
+Recortar contenido: desactivado.
+Apariencia
+Opacidad: 100 %.
+Radio de esquina: 0 px.
+Colores registrados en la selección:
+White.
+Pink.
+#FFFFFF al 25 % de opacidad.
+Contenido
+Build Community.
+Share Events.
+Get Information.
+Cada beneficio incluye un icono y un texto.
+
+
+                    ## Sección `service` — Elemento 01: Build Community
+
+### 1. Contenedor general del elemento
+- Tipo: marco con diseño automático (Auto Layout).
+- Posición X: 0.
+- Posición Y: 0.
+- Ancho: 190 px.
+- Alto: 64 px.
+- Dirección: horizontal.
+- Espacio entre elementos: 16 px.
+- Alineación: izquierda, centrado verticalmente.
+- Margen interior horizontal: 0 px.
+- Margen interior vertical: 0 px.
+- Opacidad: 100 %.
+- Radio de esquina: 0 px.
+- Recortar contenido: desactivado.
+
+### 2. Grupo del icono
+- Tipo: grupo.
+- Ancho: 64 px.
+- Alto: 64 px.
+- Posición dentro del contenedor: X 0, Y 0.
+- Radio de esquina: combinado (no tenemos un valor numérico confirmado).
+- Opacidad: 100 %.
+
+### 3. Icono
+- Tipo: recurso gráfico dentro del grupo.
+- Ubicación: a la izquierda del texto.
+- Formato recomendado para implementar: SVG, si está disponible en los recursos exportados.
+
+### 4. Texto
+- Contenido: `Build Community`.
+- Tipo: texto.
+- Posición dentro del marco: X 80, Y 5.
+- Ancho: 110 px.
+- Alto: 5 px, con altura en modo «Adaptar»; este valor no representa necesariamente la altura final renderizada.
+- Estilo tipográfico mostrado: `Title/Heading 5 · 18/Auto`.
+- Alineación horizontal: izquierda.
+- Alineación vertical: superior.
+- Color de texto: White (`#FFFFFF`).
+
+### 5. Colores del elemento
+- Blanco (`#FFFFFF`).
+- Rosa (`Pink`), asociado al icono o a un detalle gráfico.
+- Blanco con opacidad del 25 % (`#FFFFFF`, 25 %), registrado en la sección de colores.
+
+### 6. Relación entre los elementos
+- Icono a la izquierda.
+- Texto a la derecha.
+- Separación horizontal: 16 px.
+- El texto ocupa un ancho de 110 px dentro del contenedor de 190 px.
+
+### Datos pendientes de confirmar
+- Código hexadecimal exacto del rosa.
+- Dimensiones reales del dibujo del icono dentro del grupo de 64 × 64 px.
+- Si el texto tiene algún ajuste adicional de tipografía, interlineado o peso.
+
+## Sección `service` — Elemento 02: Share Events
+
+### 1. Contenedor del elemento
+- Tipo: marco con diseño automático (Auto Layout).
+- Posición X: 238 px.
+- Posición Y: 0 px.
+- Ancho: 141 px (adaptar).
+- Alto: 64 px.
+- Dirección: horizontal.
+- Separación entre elementos internos: 16 px.
+- Alineación: izquierda, centrado verticalmente.
+- Margen interior horizontal: 0 px.
+- Margen interior vertical: 0 px.
+- Opacidad: 100 %.
+- Radio de esquina: 0 px.
+- Recortar contenido: desactivado.
+
+### 2. Colores
+- Blanco: `White`.
+- Rosa: `Pink`.
+- Blanco con opacidad del 25 %: `#FFFFFF` al 25 %.
+
+### 3. Estructura visual
+- Icono a la izquierda.
+- Texto a la derecha.
+- Texto: `Share Events`.
+- El elemento mantiene la misma altura de 64 px que `Build Community`.
+
+### 4. Datos pendientes
+- Código hexadecimal exacto del rosa.
+- Dimensiones exactas del icono.
+- Tipografía, tamaño e interlineado específicos del texto de este elemento.
+
+## Sección `service` — Elemento 03: Get Information
+
+### 1. Contenedor del elemento
+- Tipo: marco con diseño automático (Auto Layout).
+- Posición X: 427 px.
+- Posición Y: 0 px.
+- Ancho: 189 px (adaptar).
+- Alto: 64 px (adaptar).
+- Dirección: horizontal.
+- Separación entre elementos internos: 16 px.
+- Margen interior horizontal: 0 px.
+- Margen interior vertical: 0 px.
+- Opacidad: 100 %.
+- Radio de esquina: 0 px.
+- Recortar contenido: desactivado.
+
+### 2. Colores
+- Blanco: `White`.
+- Rosa: `Pink`.
+- Blanco con opacidad del 25 %: `#FFFFFF` al 25 %.
+
+### 3. Estructura visual
+- Icono a la izquierda.
+- Texto a la derecha.
+- Texto: `Get Information`.
+
+### 4. Datos pendientes
+- Código hexadecimal exacto del rosa.
+- Dimensiones exactas del icono.
+- Tipografía, tamaño e interlineado específicos del texto.
+
+
+                            FICHA TÉCNICA: NAVBAR
+
+1. CONTENEDOR PRINCIPAL
+Nombre en Figma: navbar
+Ancho: 1920 px
+Alto: 120 px
+Fondo de la navbar
+Nombre de la capa: background
+Color: #D9D9D9
+Opacidad: 100 %
+Dimensiones del contenedor padre Gathsession: 1920 × 1080 px
+Contiene: logotipo y menú de navegación.
+Posición exacta del contenedor: pendiente de registrar.
+
+2. LOGOTIPO
+Texto: GathSession.
+Posición X: 160 px
+Posición Y: 37 px
+Ancho: 235 px
+Alto: 45 px
+Tipografía: Merriweather
+Estilo: Bold
+Tamaño: 36 px
+Altura de línea: automática
+Espaciado entre letras: 0 %
+Colores: Gath: #DB2A6B, Session: #FFFFFF
+
+3. MENÚ DE NAVEGACIÓN
+Nombre del grupo: menu
+Posición X: 1137 px
+Posición Y: 46 px
+Ancho: 519 px (adaptar)
+Alto: 27 px (adaptar)
+Dirección: horizontal
+Separación entre elementos: 48 px
+Alineación: centrada verticalmente
+Margen interior horizontal: 0 px
+Margen interior vertical: 0 px
+
+4. ENLACES DEL MENÚ
+Todos tienen una altura de 27 px y usan la tipografía Text/Text 2 · 18/Auto.
+
+Home
+Posición X: 0 px (relativa al grupo)
+Posición Y: 0 px
+Ancho: 54 px (adaptar)
+Alto: 27 px (adaptar)
+Color del texto: #FFFFFF
+Opacidad: 100 %
+
+Indicador inferior rosa: 32 × 4 px
+Posición del indicador: X = 1137 px, Y = 81 px, según la captura del rectángulo.
+Indicador del enlace activo — Home
+Nombre de la capa: Rectangle
+Posición X: 1137 px
+Posición Y: 81 px
+Ancho: 32 px
+Alto: 4 px
+Color: #DB2A6B
+Opacidad: 100 %
+Radio de esquina: 6 px
+
+Features
+Posición X: 102 px (relativa al grupo)
+Posición Y: 0 px
+Ancho: 78 px (adaptar)
+Alto: 27 px (adaptar)
+color: #ABABAB (gris), opacidad 100 %.
+
+Blog
+Posición X: 228 px (relativa al grupo)
+Posición Y: 0 px
+Ancho: 40 px (adaptar)
+Alto: 27 px (adaptar)
+color: #ABABAB (gris), opacidad 100 %.
+
+Contact
+Posición X: 316 px (relativa al grupo)
+Posición Y: 0 px
+Ancho: 74 px (adaptar)
+Alto: 27 px (adaptar)
+color: #ABABAB (gris), opacidad 100 %.
+
+About Us
+Posición X: 438 px (relativa al grupo)
+Posición Y: 0 px
+Ancho: 81 px (adaptar)
+Alto: 27 px (adaptar)
+color: #ABABAB (gris), opacidad 100 %.
+
+                            ## Sección: CONTENT
+
+**Marco / grupo `content`**
+- Posición X: 971 px
+- Posición Y: 174 px
+- Ancho: 1102 px
+- Alto: 1216 px
+- Rotación: 0°
+- Opacidad: 100%
+- Radio de esquina: combinado
+- Trazo: `#E1E1E1`, 1 px, 100%
+
+**Elementos hijos**
+- 5 capas llamadas `image`
+- 2 capas llamadas `ellipse` (visibles en la lista de capas)
+
+**Colores identificados en la sección**
+- Turquesa: `#60D3D9`
+- Violeta: `#6E1FED`
+- Amarillo: `#F4B840`
+- Naranja: `#FF7E29`
+- Rosa: color de biblioteca llamado `Pink` (el código exacto todavía no está confirmado en esta captura)
+- Gris: color de biblioteca llamado `Gray 2` (código exacto todavía no está confirmado en esta captura)
+
+CONTENT — Imagen 1: mujer con fondo turquesa
+
+Grupo de imagen
+Posición X: 1248 px
+Posición Y: 174 px
+Ancho: 240 px
+Alto: 240 px
+Rotación: 0°
+Opacidad: 100%
+
+Imagen interna
+Tipo: imagen rasterizada
+Posición X: 964 px
+Posición Y: 145 px
+Ancho: 808 px
+Alto: 538 px
+Rotación: 0°
+Opacidad: 100%
+Radio de esquina: 0
+Rectángulo / máscara
+Posición X: 1248 px
+Posición Y: 174 px
+Ancho: 240 px
+Alto: 240 px
+Radio de esquina: 90 px
+Opacidad: 100%
+Color de relleno: #60D3D9
+Tipo de máscara: Alfa
+Observación visual
+La fotografía queda recortada dentro de una forma vertical de esquinas muy redondeadas.
+El fondo turquesa visible corresponde a #60D3D9.
+
+CONTENT — Imagen 2: hombre con fondo naranja
+
+Grupo de imagen
+
+Posición X: 1248 px
+Posición Y: 446 px
+Ancho: 240 px
+Alto: 509 px
+Rotación: 0°
+Opacidad: 100%
+
+Imagen interna
+Tipo: imagen rasterizada
+Posición X: 936 px
+Posición Y: 446 px
+Ancho: 885 px
+Alto: 590 px
+Rotación: 0°
+Opacidad: 100%
+Radio de esquina: 0
+Rectángulo / máscara
+Posición X: 1248 px
+Posición Y: 446 px
+Ancho: 240 px
+Alto: 509 px
+Radio de esquina: 90 px
+Opacidad: 100%
+Color de relleno: #FF7E29
+Tipo de máscara: Alfa
+Observación visual
+Fotografía vertical recortada con esquinas muy redondeadas.
+Fondo naranja: #FF7E29.
+
+CONTENT — Imagen 3: mujer pelirroja con fondo rosa
+
+Grupo de imagen
+Posición X: 976 px
+Posición Y: 715 px
+Ancho: 240 px
+Alto: 240 px
+Rotación: 0°
+Opacidad: 100%
+
+Imagen interna
+Tipo: imagen rasterizada
+Posición X: 655 px
+Posición Y: 373 px
+Ancho: 900 px
+Alto: 900 px
+Rotación: 0°
+Opacidad: 100%
+Radio de esquina: 0
+Rectángulo / máscara
+Posición X: 976 px
+Posición Y: 715 px
+Ancho: 240 px
+Alto: 240 px
+Radio de esquina: 90 px
+Opacidad: 100%
+Color de relleno: #DB2A6B
+Tipo de máscara: Alfa
+Observación visual
+Fotografía cuadrada recortada con esquinas muy redondeadas.
+Fondo rosa: #DB2A6B.
+
+## CONTENT — Imagen 4: hombre con fondo violeta
+
+### Grupo de imagen
+- Posición X: 976 px
+- Posición Y: 174 px
+- Ancho: 240 px
+- Alto: 509 px
+- Rotación: 0°
+- Opacidad: 100%
+
+### Imagen interna
+- Tipo: imagen rasterizada
+- Posición X: 560 px
+- Posición Y: 179 px
+- Ancho: 1090 px
+- Alto: 728 px
+- Rotación: 0°
+- Opacidad: 100%
+- Radio de esquina: 0
+
+### Fondo / máscara
+- Posición X: 976 px
+- Posición Y: 174 px
+- Ancho: 240 px
+- Alto: 509 px
+- Color: `#6E1FED`
+- Opacidad: 100%
+- Radio de esquina: 90 px
+
+### Observación visual
+- Fotografía vertical recortada con bordes muy redondeados.
+- Fondo violeta: `#6E1FED`.
+
+## CONTENT — Imagen 5: mujer con fondo amarillo
+
+### Grupo de imagen
+- Posición X: 1520 px
+- Posición Y: 310 px
+- Ancho: 240 px
+- Alto: 509 px
+- Rotación: 0°
+- Opacidad: 100%
+
+### Rectángulo / máscara
+- Posición X: 1520 px
+- Posición Y: 310 px
+- Ancho: 240 px
+- Alto: 509 px
+- Radio de esquina: 90 px
+- Opacidad: 100%
+- Color de relleno: `#F4B840`
+- Tipo de máscara: Alfa
+
+### Observación visual
+- Fotografía vertical recortada con esquinas muy redondeadas.
+- Fondo amarillo: `#F4B840`.
+
+## CONTENT — Elipse 1
+
+- Tipo de elemento: Elipse decorativa
+- Posición X: 1217 px
+- Posición Y: 540 px
+- Ancho: 850 px
+- Alto: 850 px
+- Rotación: 0°
+- Opacidad: 25%
+- Color de trazo: `#F5F5F5`
+- Grosor del trazo: 1 px
+- Posición del trazo: interior (según la opción visible en Figma)
+- Relleno: no se observa un relleno configurado en las capturas.
+
+### Función visual
+Círculo decorativo grande, delineado con una línea clara y semitransparente, parcialmente recortado por los límites del diseño.
+
+## CONTENT — Elipse 2
+
+- Tipo de elemento: Elipse decorativa
+- Posición X: 971 px
+- Posición Y: 263 px
+- Ancho: 1102 px
+- Alto: 1102 px
+- Rotación: 0°
+- Opacidad del elemento: 25%
+- Color del trazo: `#F5F5F5`
+- Opacidad del trazo: 100%
+- Grosor del trazo: 1 px
+- Posición del trazo: interior
+- Relleno: no se observa un relleno configurado.
+
+### Función visual
+Círculo decorativo de gran tamaño, con contorno claro y semitransparente. Se superpone visualmente con la primera elipse y queda parcialmente fuera del área visible del diseño.
+
+                               ## TITLE — Grupo principal
+
+- Tipo de elemento: Grupo
+- Posición X: 160 px
+- Posición Y: 216 px
+- Ancho: 784 px
+- Alto: 539 px
+- Rotación: 0°
+- Opacidad: 100%
+- Colores asociados: White y Pink
+
+### Elementos que contiene
+1. **Título principal:** “Build your best community starting from here.”
+2. **Texto descriptivo:** “Meet and communicate with the best people to run projects, events or other activities in a more effective and fun way.”
+3. **Botón principal:** “Get Started”
+4. **Enlace secundario:** “Learn More”, acompañado de una flecha.
+
+### Observación
+Las capturas muestran las dimensiones del grupo completo, pero todavía necesitamos seleccionar por separado el título, el párrafo y los botones para registrar sus medidas, posiciones y tipografías individuales.
+
+## TITLE — Título principal
+
+**Texto:** Build your best community starting from here.
+
+### Posición y dimensiones
+- Posición X: 160 px
+- Posición Y: 216 px
+- Ancho: 784 px
+- Alto: 303 px
+- Rotación: 0°
+- Opacidad: 100%
+
+### Tipografía
+- Fuente: Merriweather
+- Estilo: Bold
+- Tamaño: 80 px
+- Altura de línea: Automático
+- Espaciado entre letras: 0%
+- Alineación horizontal: Izquierda
+- Alineación vertical: Superior
+- Color: `#FFFFFF`
+
+### Observación
+El título ocupa tres líneas y está ubicado en la parte superior izquierda del bloque principal de contenido.
+
+## TITLE — Párrafo descriptivo
+
+**Texto:**
+Meet and communicate with the best people to run projects, events or other activities in a more effective and fun way
+
+### Posición y dimensiones
+- Posición X: 160 px
+- Posición Y: 543 px
+- Ancho: 648 px
+- Alto: 120 px
+- Rotación: 0°
+- Opacidad: 50%
+
+### Tipografía
+- Estilo de Figma: Text/Text 1 · 24/40
+- Tamaño de fuente: 24 px
+- Altura de línea: 40 px
+- Fuente y peso: pendientes de confirmar
+- Alineación horizontal: izquierda
+- Alineación vertical: superior
+- Color de relleno: White (`#FFFFFF`)
+
+### Observaciones
+- El texto ocupa 3 líneas.
+- La opacidad del 50% se aplica al elemento completo.
+- No tiene trazos ni efectos configurados.
+
+## TITLE — Grupo de botones
+
+### Posición y dimensiones
+- Tipo de elemento: Grupo
+- Posición X: 160 px
+- Posición Y: 695 px
+- Ancho: 420 px
+- Alto: 60 px
+- Rotación: 0°
+- Opacidad: 100%
+- Espaciado entre elementos: 32 px
+- Flujo: libre, sin diseño automático de distribución
+
+### Elementos incluidos
+1. Botón principal: `Get Started`
+2. Enlace secundario: `Learn More`, acompañado de una flecha hacia la derecha.
+
+### Colores asociados
+- White: `#FFFFFF` (código confirmado previamente para el blanco)
+- Pink: pendiente de confirmar el código hexadecimal exacto del color rosa.
+
+## TITLE — Texto del botón «Get Started»
+
+### Posición y dimensiones
+- Posición X: 228 px
+- Posición Y: 711 px
+- Ancho: 103 px
+- Alto: 27 px
+- Rotación: 0°
+- Opacidad: 100%
+
+### Tipografía
+- Estilo de Figma: `Text/Text 2 · 18/Auto`
+- Tamaño y altura de línea exactos: pendientes de verificar en los estilos de texto.
+- Color: White (`#FFFFFF`)
+- Alineación horizontal: izquierda
+- Alineación vertical: superior
+
+### Observación
+El texto está dentro del botón rosa de 240 × 60 px. Las coordenadas corresponden al marco principal de Figma.
+
+## TITLE — Enlace secundario «Learn More»
+
+### Posición y dimensiones
+- Tipo de elemento: Grupo
+- Posición X: 432 px
+- Posición Y: 705 px
+- Ancho: 148 px
+- Alto: 40 px
+- Rotación: 0°
+- Opacidad: 100%
+- Radio de esquina: 0 px
+- Espaciado entre elementos: 6 px
+
+### Colores
+- Color asociado: White (`#FFFFFF`)
+
+### Elementos incluidos
+1. Texto: `Learn More`
+2. Flecha hacia la derecha.
+
+## TITLE — Enlace secundario «Learn More»
+
+### Texto
+- Contenido: `Learn More`
+- Posición X: 432 px
+- Posición Y: 710 px
+- Ancho: 102 px
+- Alto: 27 px
+- Rotación: 0°
+- Opacidad: 100%
+
+### Tipografía
+- Familia: Poppins
+- Peso: SemiBold
+- Tamaño: 18 px
+- Altura de línea: Automático
+- Espaciado entre letras: 0%
+- Alineación horizontal: Izquierda
+- Color: White (`#FFFFFF`)
+
+## TITLE — Flecha del enlace
+
+- Tipo de elemento: Marco
+- Posición X: 540 px
+- Posición Y: 705 px
+- Ancho: 40 px
+- Alto: 40 px
+- Rotación: -90°
+- Opacidad: 100%
+- Color: `#FFFFFF`
+- Formato de exportación: SVG
+- Escala de exportación: 1x
+- Espaciado indicado en el diseño automático: -3 px
+
+### Pendiente
+Confirmar si el texto `Learn More` tiene subrayado aplicado y revisar el estado hover que requiere la consigna.
+

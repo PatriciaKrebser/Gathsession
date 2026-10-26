@@ -1,0 +1,139 @@
+@use "variables";
+
+.title {
+  width: 784px;
+  height: 539px;
+  margin-top: 96px;
+  margin-left: 160px;
+  h1 {
+    width: 100%;
+    color: white;
+    font-size: 80px;
+    font-family: variables.$font-heading;
+    line-height: 1;
+    margin-bottom: 24px;
+  }
+  p {
+    color: white;
+    opacity: 0.5;
+    width: 648px;
+    font-size: 24px;
+    margin-bottom: 24px;
+    font-family: variables.$font-secondary;
+    line-height: 40px;
+  }
+}
+.title_actions {
+  display: flex;
+  align-items: center;
+  gap: 32px;
+  button {
+    width: 240px;
+    height: 60px;
+    font-family: variables.$font-secondary;
+    font-size: 18px;
+    font-weight: 600;
+    color: variables.$color-white;
+    cursor: pointer;
+    background-color: variables.$color-pink;
+    border: none;
+    border-radius: 24px 24px 24px 0;
+  }
+  a {
+    font-family: variables.$font-secondary;
+    font-size: 18px;
+    font-weight: 600;
+    color: variables.$color-white;
+    text-decoration: underline;
+    display: inline-flex;
+    align-items: center;
+    gap: 6px;
+    img {
+      width: 40px;
+      height: 40px;
+      object-fit: contain;
+    }
+  }
+}
+.hero {
+  display: flex;
+  align-items: flex-start;
+}
+
+.content {
+  position: absolute;
+  width: 1102px;
+  height: 1216px;
+  left: 971px;
+  top: 174px;
+
+  img {
+    z-index: 1;
+    position: absolute;
+    width: 240px;
+    object-fit: cover;
+    border-radius: 90px;
+  }
+
+  .img1 {
+    width: 240px;
+    height: 509px;
+    background-color: #6e1fed;
+    left: 5px;
+    top: 0;
+  }
+
+  .img2 {
+    width: 240px;
+    height: 509px;
+    background-color: #f4b840;
+    left: 549px;
+    top: 136px;
+  }
+
+  .img3 {
+    width: 240px;
+    height: 509px;
+    background-color: #ff7e29;
+    left: 277px;
+    top: 272px;
+  }
+
+  .img4 {
+    width: 240px;
+    height: 240px;
+    background-color: #60d3d9;
+    left: 277px;
+    top: 0;
+  }
+
+  .img5 {
+    width: 240px;
+    height: 240px;
+    background-color: #db2a6b;
+    left: 5px;
+    top: 541px;
+  }
+}
+
+.ellipse {
+  z-index: 0;
+  position: absolute;
+  border: 1px solid rgba(245, 245, 245, 0.25);
+  border-radius: 50%;
+  pointer-events: none;
+}
+
+.ellipse-large {
+  width: 1102px;
+  height: 1102px;
+  left: 0;
+  top: 89px;
+}
+
+.ellipse-small {
+  width: 850px;
+  height: 850px;
+  left: 246px;
+  top: 366px;
+}

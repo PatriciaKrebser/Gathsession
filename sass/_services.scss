@@ -1,0 +1,59 @@
+@use "variables";
+
+.services {
+  position: absolute;
+  top: 779px;
+  left: 160px;
+
+  width: 616px;
+  height: 64px;
+
+  display: flex;
+  flex-direction: row;
+  align-items: center;
+  gap: 48px;
+}
+
+.service {
+  display: flex;
+  align-items: center;
+  gap: 28px;
+  flex-shrink: 0;
+
+  img {
+    width: 40px;
+    height: 40px;
+    flex-shrink: 0;
+  }
+
+  p {
+    color: variables.$color-white;
+    font-family: variables.$font-secondary;
+    font-size: 18px;
+    font-weight: 600;
+    line-height: 1.5;
+  }
+}
+
+.community {
+  width: 190px;
+  height: 64px;
+}
+.events {
+  width: 141px;
+  height: 64px;
+}
+.information {
+  width: 190px;
+  height: 64px;
+}
+.service_icon {
+  width: 64px;
+  height: 64px;
+  flex-shrink: 0;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  background-color: rgba(255, 255, 255, 0.25);
+  border-radius: 16px;
+}
